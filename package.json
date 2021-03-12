@@ -40,6 +40,7 @@
     "typeorm-typedi-extensions": "0.2.3"
   },
   "devDependencies": {
+    "@architect/sandbox": "^3.3.7",
     "@types/agenda": "2.0.8",
     "@types/cors": "2.8.6",
     "@types/dotenv": "8.2.0",
